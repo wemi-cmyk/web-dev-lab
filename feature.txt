@@ -1,0 +1,2 @@
+I learned what Git and Github are, how to make a repository.
+I learned how to commit changes through the terminal and push them to Github.
